@@ -1,9 +1,17 @@
-# 👋 Hi there, I'm Seokchan Yoon!
+# 👋 Hi there, I'm Yoon seokchan!
 
-> **"CS 기초가 탄탄한, 성장하는 AI Native 웹 엔지니어 윤석찬입니다."**
+**"사용자 경험을 위해 성능의 한계까지 집요하게 파고드는 엔지니어입니다."**
+> 초기 번들 **96.8% 절감** 및 FCP **47% 단축** 등 수치 기반의 최적화로 기술이 비즈니스 가치로 이어지는 과정을 경험했습니다. 무한 스크롤과 이미지 최적화 등 렌더링 성능을 개선하는 과정에서 얻은 집요함으로 서비스의 성능을 고민합니다.
 
-단순한 기능 구현을 넘어, **공학적 원리(Engineering)** 를 이해하고 **AI 도구**를 적극 활용하여 개발 생산성을 극대화합니다.
-사용자의 니즈를 기술로 해결하는 과정에 즐거움을 느끼며, 1,700만 유저 트래픽을 감당할 수 있는 **탄탄한 서비스**를 만드는 것이 목표입니다.
+**"사람의 실수에 기대지 않고 '규칙과 시스템'으로 효율과 안정성을 통제하는 아키텍트를 지향합니다."**
+> **9가지 인증 엣지 케이스 방어**와 45개의 테스트 자동화로 런타임 오류를 차단하고, Atomic Design 기반의 UI 시스템 구축을 통해 팀 전체의 **개발 생산성을 향상**시키는 구조적 해결에 집중합니다.
+
+**"PAI 상위 1%의 멘탈과 150명 규모를 이끈 리더십으로 비즈니스 임팩트를 완수합니다."**
+> **실사용자 500명** 규모의 서비스 운영부터 **스타트업 MVP 런칭, 저작권 등록 및 수상**으로 이어지는 실행력을 갖췄습니다. 기술적 난관 앞에서도 흔들림 없이 소통하며 팀의 목표를 달성해 내는 동료가 되겠습니다.
+
+<br/>
+
+🙄 제 이야기 더 궁금하다면? > [포트폴리오 바로 가기](https://yoonseokchan-portfolio.vercel.app/)
 
 <br/>
 
@@ -27,17 +35,17 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Zustand-orange?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 
-### Engineering & AI (Core)
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
 ### DevOps & Infrastructure
 <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/CloudFront-D05C4B?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
 <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
 
-### Tools
+### Communication Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
+### Engineering & AI
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 <br/>
 
@@ -56,7 +64,7 @@
 
 ### 📢 [AjouEvent (아주이벤트)](https://github.com/AjouEvent)
 > **교내 공지사항 및 행사 알림 통합 웹앱**
-> *2024.01 ~ 2024.12 (Frontend Developer)*
+> *2024.01 ~ 2026.06 (Frontend Developer)*
 
 - **Role**: 프론트엔드 개발, 성능 최적화, 운영
 - **Key Achievements**:
@@ -128,13 +136,19 @@
 - **2024.03 ~ 2025.02** | **MAIN (소프트웨어학과 학생회)** 임원
 - **2024.01 ~ 2025.03** | **넛지 (창업동아리)** 팀원
 - **2023.03 ~ 2024.12** | **SWEAT (IT 봉사동아리)** 회원
+- **2023.03 ~ 2024.12** | **한터 (소프트웨어학과 소학회)** 회원
 - **2023.03 ~ 2024.12** | **UMC (대학생 개발 연합동아리)** 회원
 - **2023.03 ~ 2024.12** | **Do-iT! (IT 중앙동아리)** 임원
+- **2024.03 ~ 2025.02** | **ENTER (소프트웨어학과 학생회)** 임원
 
 <br/>
 
 ## 📬 Contact
 
 - **Email**: yoonseokchan0731@gmail.com
-- **Blog (Notion)**: [PaleBlueNote's DevLog](https://www.notion.so/PaleBuleNote-14ee1af7a51e4aa4b6cfcc49a6301d68)
-- **Github**: [PaleBlueNote](https://github.com/PaleBlueNote)
+
+## Mypages
+- **Velog**: https://velog.io/@palebluenote/posts
+- **Blog (Notion)**: https://www.notion.so/PaleBuleNote-14ee1af7a51e4aa4b6cfcc49a6301d68
+- **Github**: https://github.com/PaleBlueNote
+- **portfolio**: https://yoonseokchan-portfolio.vercel.app
